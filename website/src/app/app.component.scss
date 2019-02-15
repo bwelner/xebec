@@ -1,4 +1,22 @@
+.blue-bg{
+    background-color: #00205b;
+    color: white;
+    background-image: url("/assets/Boat.png");
+    height: 1000px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    justify-content: center;
+    display: block;
+}
 
+p {
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+}
 
 .container {
     justify-content: center;
